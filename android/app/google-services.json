@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "396261081532",
+    "project_id": "aimchat-7bbe8",
+    "storage_bucket": "aimchat-7bbe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396261081532:android:b90e726c2ce8b1281bebb9",
+        "android_client_info": {
+          "package_name": "com.aimchatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396261081532-49sbqf8ut0960mo681manp22csmgvqql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzAFadGFgtEB44mG2IeIQPt6vb_1ZOMB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396261081532-49sbqf8ut0960mo681manp22csmgvqql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "396261081532-gei10e97102sac37k770jf3sqik4lgcc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aimchatApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396261081532:android:6ac61ba50acbbca81bebb9",
+        "android_client_info": {
+          "package_name": "com.aimchatAppApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396261081532-49sbqf8ut0960mo681manp22csmgvqql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzAFadGFgtEB44mG2IeIQPt6vb_1ZOMB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396261081532-49sbqf8ut0960mo681manp22csmgvqql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "396261081532-gei10e97102sac37k770jf3sqik4lgcc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aimchatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

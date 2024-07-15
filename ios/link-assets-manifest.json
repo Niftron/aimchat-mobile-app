@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Merriweather-Regular.ttf",
+      "sha1": "17a9d755fe256d564ff3da228a19b30240a05434"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "ff1eb5d360a42c0c675d8ecfca9a3e5b709d302a"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "4ef29a9163b56df34a3486b98b24be3a3d0cdca6"
+    }
+  ]
+}
