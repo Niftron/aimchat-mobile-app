@@ -136,7 +136,7 @@ export const en: LangsType = {
     menu: {
       title: 'Filtering',
       distance: 'Distance',
-      feets: 'Feets',
+      feets: 'Feet',
     },
     wasHere: 'Was here more than 5 min. ago',
     viewProfile: 'View Profile',
